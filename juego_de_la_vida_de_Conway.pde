@@ -19,6 +19,9 @@ void glider(){
   arena[31][40] = true;
   arena[32][40] = true;
   arena[30][41] = true;
+
+
+  
   arena[31][42] = true;
 }
 void spaceship(){
